@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://genshin-card.getloli.com/rand/29746609.png)
 <!--
 **LIDHX/LIDHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
