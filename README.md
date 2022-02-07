@@ -1,8 +1,8 @@
 ![](https://genshin-card.getloli.com/rand/184875189.png)
 
 
-### hitokoto (https://www.linuxfoundation.org/)
-[![](https://kwokql.com/core/svg/hitokoto.svg)]
+ hitokoto (https://www.linuxfoundation.org/)
+![](https://kwokql.com/core/svg/hitokoto.svg)
 
 
 #### Development & tools
