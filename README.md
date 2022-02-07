@@ -3,8 +3,7 @@
 
 
 
-
- hitokoto (https://www.linuxfoundation.org/)
+ hitokoto[https://www.linuxfoundation.org]
  
 ![](https://kwokql.com/core/svg/hitokoto.svg?param=1)
 
