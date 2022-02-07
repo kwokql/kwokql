@@ -3,7 +3,7 @@
 
  hitokoto (https://www.linuxfoundation.org/)
  
-![](https://kwokql.com/core/svg/hitokoto.svg)
+![](https://kwokql.com/core/svg/hitokoto.svg?param=1)
 
 
 #### Development & tools
