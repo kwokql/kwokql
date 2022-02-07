@@ -4,9 +4,6 @@
 ### hitokoto (https://www.linuxfoundation.org/)
 [![](https://kwokql.com/core/svg/hitokoto.svg)]
 
-![](https://kwokql.com/core/svg/hitokoto.svg)
-
-![hitokoto](https://kwokql.com/core/svg/hitokoto.svg)
 
 #### Development & tools
 
