@@ -5,7 +5,7 @@
 
  hitokoto[https://www.linuxfoundation.org]
  
-![](https://kwokql.com/core/svg/hitokoto.svg?param=1)
+![](https://kwokql.com/core/svg/hitokoto.svg?param=2)
 
 
 #### Development & tools
